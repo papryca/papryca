@@ -7,7 +7,7 @@
     - [github-link](https://github.com/papryca/virtual-keyboard)
     - [deployment-link](https://papryca.github.io/virtual-keyboard/)
 - Responsive and interactive website layout (React, Tailwind).
-    - [github-link]([https://github.com/papryca/eCommerce-Application](https://github.com/papryca/Frontend-Assessment-React))
+    - [github-link](https://github.com/papryca/Frontend-Assessment-React)
     - [deployment-link](https://precious-mochi-becaaa.netlify.app/)
 <!--
 **papryca/papryca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
