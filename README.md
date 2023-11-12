@@ -5,7 +5,6 @@
     - [deployment-link](https://splendorous-bubblegum-f88648.netlify.app/)
 - Virtual keyboard (HTML, CSS, JavaScript):
     - [github-link](https://github.com/papryca/virtual-keyboard)
-    - [deployment-link](https://papryca.github.io/virtual-keyboard/)
 - Responsive and interactive website layout (React, Tailwind).
     - [github-link](https://github.com/papryca/Frontend-Assessment-React)
     - [deployment-link](https://precious-mochi-becaaa.netlify.app/)
