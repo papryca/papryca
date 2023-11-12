@@ -2,7 +2,6 @@
 ## My Projects:
 - eCommerce Frontend Application(React, TypeScript, ESLint, Prettier, Husky, Jest):
     - [github-link](https://github.com/papryca/eCommerce-Application)
-    - [deployment-link](https://splendorous-bubblegum-f88648.netlify.app/)
 - Virtual keyboard (HTML, CSS, JavaScript):
     - [github-link](https://github.com/papryca/virtual-keyboard)
 - Responsive and interactive website layout (React, Tailwind).
