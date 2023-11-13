@@ -6,7 +6,6 @@
     - [github-link](https://github.com/papryca/virtual-keyboard)
 - Responsive and interactive website layout (React, Tailwind).
     - [github-link](https://github.com/papryca/Frontend-Assessment-React)
-    - [deployment-link](https://precious-mochi-becaaa.netlify.app/)
 - CSS Selector Trainer(TS,JS,Jest,Eslint,CSS) .
     - [github-link](https://github.com/papryca/CSS-selector)
 <!--
