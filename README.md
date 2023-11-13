@@ -7,6 +7,9 @@
 - Responsive and interactive website layout (React, Tailwind).
     - [github-link](https://github.com/papryca/Frontend-Assessment-React)
     - [deployment-link](https://precious-mochi-becaaa.netlify.app/)
+- CSS Selector Trainer(TS,JS,Jest,Eslint,CSS) .
+    - [github-link](https://github.com/papryca/Frontend-Assessment-React)
+    - [deployment-link](https://precious-mochi-becaaa.netlify.app/)
 <!--
 **papryca/papryca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
