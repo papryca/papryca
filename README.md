@@ -2,12 +2,12 @@
 ## My Projects:
 - eCommerce Frontend Application(React, TypeScript, ESLint, Prettier, Husky, Jest):
     - [github-link](https://github.com/papryca/eCommerce-Application)
-- Virtual keyboard (HTML, CSS, JavaScript):
-    - [github-link](https://github.com/papryca/virtual-keyboard)
 - Responsive and interactive website layout (React, Tailwind).
     - [github-link](https://github.com/papryca/Frontend-Assessment-React)
 - CSS Selector Trainer(TS,JS,Jest,Eslint,CSS) .
     - [github-link](https://github.com/papryca/CSS-selector)
+- Virtual keyboard (HTML, CSS, JavaScript):
+    - [github-link](https://github.com/papryca/virtual-keyboard)
 <!--
 **papryca/papryca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
