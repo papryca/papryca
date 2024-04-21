@@ -1,6 +1,6 @@
 ### Hi there 👋
 ## My Portfolio:
-[link]([https://github.com/papryca/eCommerce-Application](https://lighthearted-boba-c832e5.netlify.app/))
+[link]([https://github.com/papryca/eCommerce-Application](https://lighthearted-boba-c832e5.netlify.app/)
 <!--
 **papryca/papryca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
